@@ -1,6 +1,6 @@
 # Deep Learning Based Video Stabilization (RAFT + BiLSTM/Transformer/GRU)
 
-[📄 Project Report (PDF)](docs/VideoStabilization.pdf) • [🌐 Project Website](https://<your-username>.github.io/video-stabilization-dl/) • [Colab]([https://<your-username>.github.io/video-stabilization-dl/](https://colab.research.google.com/drive/1WUPANk4GPu7wTVZ4NPrncu9QODDZP1Z0?usp=sharing))
+[📄 Project Report (PDF)](docs/VideoStabilization.pdf) • [🌐 Project Website](https://<your-username>.github.io/video-stabilization-dl/) • [Colab]((https://colab.research.google.com/drive/1WUPANk4GPu7wTVZ4NPrncu9QODDZP1Z0?usp=sharing))
 
 ---
 

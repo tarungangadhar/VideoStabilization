@@ -30,6 +30,3 @@ We learn to smooth camera motion directly from **optical flow**. Dense flow is e
 |---|---|
 | ![dx/dy](docs/assets/dxdy_lstm.png) | ![Compare](docs/assets/model_compare.png) |
 
-## Quickstart
-> Python ≥ 3.9, CUDA optional but recommended.
-

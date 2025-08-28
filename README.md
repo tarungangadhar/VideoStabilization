@@ -23,9 +23,9 @@ We learn to smooth camera motion directly from **optical flow**. Dense flow is e
 
 | Loss Curve | 2D Trajectory |
 |---|---|
-| ![Loss](docs/assets/loss_curve.png) | ![Traj](docs/assets/traj.png) |
+| ![Loss](assets/loss_curve.png) | ![Traj](assets/traj.png) |
 
 | dx/dy (BiLSTM) | Model Comparison |
 |---|---|
-| ![dx/dy](docs/assets/dxdy_lstm.png) | ![Compare](docs/assets/model_compare.png) |
+| ![dx/dy](assets/dxdy_lstm.png) | ![Compare](assets/modelcompare.png) |
 
